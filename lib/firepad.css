@@ -19,7 +19,7 @@
 }
 
 .firepad-with-toolbar .CodeMirror {
-  top: 83px;
+  top: 38px;
   padding-left: 10px;
 }
 
@@ -28,8 +28,7 @@
 }
 
 .firepad-toolbar {
-  height: 82px;
-  line-height: 82px;
+  min-height: 37px;
   padding-left: 10px;
   border-bottom: 1px solid #c9c9c9;
 
@@ -109,13 +108,13 @@ a.firepad-btn, a.firepad-btn:visited, a.firepad-btn:active {
   cursor: pointer;
   text-decoration: none;
   display: inline-block;
-  padding: 6px 6px 4px 6px;
+  padding: 4px 4px 2px 4px;
   text-align: center;
   vertical-align: middle;
-  font-size: 16px;
+  font-size: 14px;
   background-color: #fcfcfc;
   border: 1px solid #c9c9c9;
-  border-bottom-width: 4px;
+  border-bottom-width: 3px;
   color: #9c9c9c;
 }
 
