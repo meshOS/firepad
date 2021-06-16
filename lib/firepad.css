@@ -105,7 +105,7 @@ pre.CodeMirror-line.firepad-lt-o, pre.CodeMirror-line.firepad-lt-u, pre.CodeMirr
 }
 
 a.firepad-btn, a.firepad-btn:visited, a.firepad-btn:active {
-  font-family: "Arial" sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
   text-decoration: none;
   display: inline-block;
