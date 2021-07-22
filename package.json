@@ -70,6 +70,6 @@
     "travis": "grunt",
     "dev": "grunt watch",
     "build": "grunt build",
-    "deploy": "npm run build && cp dist/firepad.{css,min.js} '../alphadev/Mesh/Mesh/Webtech Source/'"
+    "deploy": "npm run build && cp dist/firepad.{css,min.js} '../mac_client/Mesh/Mesh/Webtech Source/'"
   }
 }
